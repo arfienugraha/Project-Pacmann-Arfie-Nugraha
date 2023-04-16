@@ -31,9 +31,7 @@ Transaction is one of the step needeed in closing a purchase. The problems come 
  i. Display and check out total price
  
 # D. Flow Chart Program
-https://github.com/arfienugraha/Project-Pacmann-Arfie-Nugraha/issues/1#issue-1669126220
-![Flow_Chart_Tugas_Besar_Pacmann](https://user-images.githubusercontent.com/89647712/232181360-173535d6-70f6-4c00-96e7-d68d5be51c8d.png)
-
+![Flow Chart Tugas Besar Pacmann 4 drawio](https://user-images.githubusercontent.com/89647712/232277424-4609a118-7f80-464b-8ed1-66a985752481.png)
  
 # E. Function 
 There is no function located in the main program MainCashier.py while there are 10 functions in
